@@ -10,7 +10,7 @@ order by
     company_location = "US"    
 limit 30
 
-
+--subquery
 select
  agent_name, 
  agent_code,
